@@ -9,5 +9,7 @@ public class HelloWorld{
         System.out.println("Student Name: " + student1.getName());
         System.out.println("Student Age: " + student1.getAge());
         System.out.println("Student Grade: " + student1.getGrade());
+        System.out.println("It is Working in Manual Pipeline");
     }
+
 }
